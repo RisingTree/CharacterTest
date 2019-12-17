@@ -1,0 +1,11 @@
+/Users/trippy/Desktop/CodingDojo/C#/C#_oop/Hungry_ninja/bin/Debug/netcoreapp2.2/Hungry_ninja.deps.json
+/Users/trippy/Desktop/CodingDojo/C#/C#_oop/Hungry_ninja/bin/Debug/netcoreapp2.2/Hungry_ninja.runtimeconfig.json
+/Users/trippy/Desktop/CodingDojo/C#/C#_oop/Hungry_ninja/bin/Debug/netcoreapp2.2/Hungry_ninja.runtimeconfig.dev.json
+/Users/trippy/Desktop/CodingDojo/C#/C#_oop/Hungry_ninja/bin/Debug/netcoreapp2.2/Hungry_ninja.dll
+/Users/trippy/Desktop/CodingDojo/C#/C#_oop/Hungry_ninja/bin/Debug/netcoreapp2.2/Hungry_ninja.pdb
+/Users/trippy/Desktop/CodingDojo/C#/C#_oop/Hungry_ninja/obj/Debug/netcoreapp2.2/Hungry_ninja.csprojAssemblyReference.cache
+/Users/trippy/Desktop/CodingDojo/C#/C#_oop/Hungry_ninja/obj/Debug/netcoreapp2.2/Hungry_ninja.csproj.CoreCompileInputs.cache
+/Users/trippy/Desktop/CodingDojo/C#/C#_oop/Hungry_ninja/obj/Debug/netcoreapp2.2/Hungry_ninja.AssemblyInfoInputs.cache
+/Users/trippy/Desktop/CodingDojo/C#/C#_oop/Hungry_ninja/obj/Debug/netcoreapp2.2/Hungry_ninja.AssemblyInfo.cs
+/Users/trippy/Desktop/CodingDojo/C#/C#_oop/Hungry_ninja/obj/Debug/netcoreapp2.2/Hungry_ninja.dll
+/Users/trippy/Desktop/CodingDojo/C#/C#_oop/Hungry_ninja/obj/Debug/netcoreapp2.2/Hungry_ninja.pdb
